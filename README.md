@@ -1,9 +1,16 @@
-### Hi there 👋 I'm Seul
+# Hi, I'm Seul 👋
 
-I enjoy writing!
+Technical writer focused on developer documentation, enterprise software, and knowledge management.
 
-✏ Skills   
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+## Areas of interest
+
+* Developer documentation
+* API documentation
+* Information architecture
+* Docs-as-code
+* Knowledge management
+* AI-assisted documentation workflows
+
+## Website
+
+Blog: https://seulahn.github.io/
